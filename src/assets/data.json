@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Book",
+        "price": "120",
+        "image": "/images/book.jpg"
+    },
+
+    {
+        "id": "2",
+        "name": "Headphone",
+        "price": "300",
+        "image": "/images/headphone.jpg"
+    },
+
+    {
+        "id": "3",
+        "name": "Computer",
+        "price": "15000",
+        "image": "/images/computer.jpg"
+    },
+
+    {
+        "id": "4",
+        "name": "Keyboard",
+        "price": "120",
+        "image": "/images/keyboard.jpg"
+    },
+
+    {
+        "id": "5",
+        "name": "Mic",
+        "price": "120",
+        "image": "/images/mic.jpg"
+    },
+
+    {
+        "id": "6",
+        "name": "Speaker",
+        "price": "120",
+        "image": "/images/speaker.jpg"
+    },
+
+    {
+        "id": "7",
+        "name": "Piano",
+        "price": "120",
+        "image": "/images/piano.jpg"
+    },
+
+    {
+        "id": "8",
+        "name": "Notebook",
+        "price": "120",
+        "image": "/images/notebook.jpg"
+    }
+]
