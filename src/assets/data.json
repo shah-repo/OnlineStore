@@ -3,55 +3,55 @@
         "id": "1",
         "name": "Book",
         "price": "120",
-        "image": "/images/book.jpg"
+        "image": "https://images.pexels.com/photos/2386687/pexels-photo-2386687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "2",
         "name": "Headphone",
         "price": "300",
-        "image": "/images/headphone.jpg"
+        "image": "https://images.pexels.com/photos/815494/pexels-photo-815494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "3",
         "name": "Computer",
         "price": "15000",
-        "image": "/images/computer.jpg"
+        "image": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "4",
         "name": "Keyboard",
         "price": "120",
-        "image": "/images/keyboard.jpg"
+        "image": "https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "5",
         "name": "Mic",
         "price": "120",
-        "image": "/images/mic.jpg"
+        "image": "https://images.pexels.com/photos/1212829/pexels-photo-1212829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "6",
         "name": "Speaker",
         "price": "120",
-        "image": "/images/speaker.jpg"
+        "image": "https://images.pexels.com/photos/6023354/pexels-photo-6023354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "7",
         "name": "Piano",
         "price": "120",
-        "image": "/images/piano.jpg"
+        "image": "https://images.pexels.com/photos/814262/pexels-photo-814262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
         "id": "8",
         "name": "Notebook",
         "price": "120",
-        "image": "/images/notebook.jpg"
+        "image": "https://images.pexels.com/photos/947870/pexels-photo-947870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]
